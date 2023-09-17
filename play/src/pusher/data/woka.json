@@ -6,9 +6,9 @@
                 "position": 0,
                 "textures": [
                     {
-                        "id": "cat1",
-                        "name": "cat1",
-                        "url": "resources/characters/pipoya/cat 01-4.png",
+                        "id": "male1",
+                        "name": "male1",
+                        "url": "resources/characters/pipoya/Male 01-1.png",
                         "position": 0
                     },
                     {
