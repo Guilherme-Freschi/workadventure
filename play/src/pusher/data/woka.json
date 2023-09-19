@@ -22,6 +22,12 @@
                         "name": "male3",
                         "url": "resources/characters/pipoya/Cat 01-1.png",
                         "position": 2
+                    },
+                    {
+                        "id": "male4",
+                        "name": "male4",
+                        "url": "resources/characters/pipoya/Teste 01-1.png",
+                        "position": 2
                     }
                 ]
             }
