@@ -15,13 +15,13 @@
                         "id": "male2",
                         "name": "male2",
                         "url": "resources/characters/pipoya/Teacher male 04.png",
-                        "position": 0
+                        "position": 1
                     },
                     {
                         "id": "male3",
                         "name": "male3",
                         "url": "resources/characters/pipoya/Cat 01-1.png",
-                        "position": 0
+                        "position": 2
                     }
                 ]
             }
