@@ -36,10 +36,10 @@
                 "position": 1,
                 "textures": [
                     {
-                        "id": "pipo-nekonin001",
-                        "name": "pipo-nekonin001",
-                        "url": "resources/characters/pipoya/pipo-nekonin001png",
-                        "position": 0
+                        "id": "male4",
+                        "name": "male4",
+                        "url": "resources/characters/pipoya/Cat 01-4.png",
+                        "position": 3
                     }
                 ]
             }
